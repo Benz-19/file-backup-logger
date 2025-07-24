@@ -12,6 +12,14 @@ A Python program to back up files and folders with versioning, logging, compress
 - Clean OOP-based structure for easy maintenance and scaling
 - CLI mode support for terminal-based usage
 
+## Screenshots
+- Interface 1
+  - ![App_1](https://raw.githubusercontent.com/Benz-19/file-backup-logger/main/screenshots/screenshot_1.png)
+
+- Interface 2
+  - ![App_2](https://raw.githubusercontent.com/Benz-19/file-backup-logger/main/screenshots/screenshot_2.png)
+
+
 ## Getting Started
 
 Clone or download this repository:
