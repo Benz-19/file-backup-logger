@@ -24,9 +24,11 @@ A Python program to back up files and folders with versioning, logging, compress
 
 Clone or download this repository:
 
-cd# Smart Backup Tool
-
-**Smart Backup Tool** is a Python-based application designed to back up files and directories with version control, ZIP compression support, logging, a graphical user interface (GUI), and persistent user preferences. The program is written using Object-Oriented Programming principles.
+```bash
+git clone https://github.com/benz-19/file-backup-logger.git
+cd file-backup-logger
+```
+**file-backup-logger** is a Python-based application designed to back up files and directories with version control, ZIP compression support, logging, a graphical user interface (GUI), and persistent user preferences. The program is written using Object-Oriented Programming principles.
 
 ## Features
 
@@ -48,12 +50,6 @@ cd file-backup-logger
 ```
 
 ### Run the App
-
-**With GUI (recommended):**
-
-```bash
-python main.py
-```
 
 **With CLI:**
 
