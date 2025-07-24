@@ -1,0 +1,7 @@
+{
+    "default_source": "C:/Users/HP/Desktop/file-backup-logger/test",
+    "default_destination": "backups",
+    "backup_interval_minutes": 0,
+    "use_zip": true,
+    "last_version_tag": "v1.0.0"
+}

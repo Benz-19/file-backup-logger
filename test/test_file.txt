@@ -1,0 +1,6 @@
+
+
+We want to create a file backup system
+It will save all files in the dir specified
+A user interface should be created
+At the end, we will have the opportunity to zip the folder
