@@ -14,10 +14,10 @@ A Python program to back up files and folders with versioning, logging, compress
 
 ## Screenshots
 - Interface 1
-  - ![App_1](https://raw.githubusercontent.com/Benz-19/file-backup-logger/main/screenshots/screenshot_1.png)
+  - ![App_1](https://raw.githubusercontent.com/Benz-19/file-backup-logger/main/screenshots/Screenshot_1.png)
 
 - Interface 2
-  - ![App_2](https://raw.githubusercontent.com/Benz-19/file-backup-logger/main/screenshots/screenshot_2.png)
+  - ![App_2](https://raw.githubusercontent.com/Benz-19/file-backup-logger/main/screenshots/Screenshot_2.png)
 
 
 ## Getting Started
